@@ -1,10 +1,10 @@
 {
-    "clientid": "ID-HERE",
-    "largeimage": "NAME-OF-LARGE-IMAGE",
-    "largetext": "TEXT-OVER-THE-IMAGE",
-    "details": "SIMPLE-DETAILS",
-    "button1": "BUTTON-1-NAME",
-    "url1": "URL-REDIRECTS-ON-BUTTON-1",
-    "button2": "BUTTON-2-NAME",
-    "url2": "URL-REDIRECTS-ON-BUTTON-2"
+    "clientid": "907291608955879454",
+    "largeimage": false,
+    "largetext": "Devin Official",
+    "details": "Test",
+    "button1": "Website",
+    "url1": "https://devin-dev.xyz",
+    "button2": "Github",
+    "url2": "https://github.com/DevinOfficial"
 }
